@@ -1,4 +1,4 @@
-# Gemini
+# Instruction (Top-priority file)
 
 このファイルを必ず最初に参照して下さい。3つの説明を行います。
 
@@ -56,11 +56,11 @@
 
 # 5. Gemini がノートブック (Notebook) で参照するファイルの説明
 
-- `gemini.md`
+- `00_instruction.md`
   - このファイルです。会話(Chat)の目的、最重要コンテキストの説明を行います。
-- `meta-rule.md`
+- `10_meta-rule.md`
   - `メタ空間` の運用ルールブックです。
-- `simulation-rule.md`
+- `20_simulation-rule.md`
   - `シミュレーション空間` の運用ルールブックです。
-- `simulation-location.md`
+- `21_simulation-location.md`
   - `シミュレーション空間` 内の周辺環境についての説明です。
