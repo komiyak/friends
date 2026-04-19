@@ -60,10 +60,10 @@
     - このファイルです。会話(Chat)の目的、最重要コンテキストの説明を行います。
 - `10_meta-rule.md`
     - `メタ空間` の運用ルールブックです。
+- `11_meta-snapshot-spec.md`
+    - `メタ空間` で作成する `Snapshot` についての仕様を記載しています。
 - `20_simulation-rule.md`
     - `シミュレーション空間` の運用ルールブックです。
-- `21_simulation-snapshot-spec.md`
-    - `Snapshot` についての仕様を記載しています。
 - `50_simulation-utterance-protocal.md`
     - `シミュレーション空間` の登場人物の発話プロトコルを指定します。
 - `51_simulation-location.md`
