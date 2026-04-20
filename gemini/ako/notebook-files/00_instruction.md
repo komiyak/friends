@@ -64,6 +64,8 @@
     - `メタ空間` で作成する `Snapshot` についての仕様を記載しています。
 - `20_simulation-rule.md`
     - `シミュレーション空間` の運用ルールブックです。
+- `21_simulation-output-rule.md`
+    - `シミュレーション空間` テキスト出力（地の文）の出力ルールを定義します。
 - `50_simulation-utterance-protocal.md`
     - `シミュレーション空間` の登場人物の発話プロトコルを指定します。
 - `51_simulation-location.md`
