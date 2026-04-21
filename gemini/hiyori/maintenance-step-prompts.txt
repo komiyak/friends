@@ -17,13 +17,12 @@ Prompt Input Format: Markdown
 
 - `Maintenance Step 1`: メンテナンスの開始宣言 (現在のこのプロンプト)
 - `Maintenance Step 2`: 会話(Chat)の目的と、シミュレーション空間とメタ空間について
-- `Maintenance Step 3`: メタ空間 - あなた（システム）の人格
-- `Maintenance Step 4`: シミュレーション空間 - 運用ルール (1)
-- `Maintenance Step 5`: シミュレーション空間 - 運用ルール (2)
-- `Maintenance Step 6`: シミュレーション空間 - テキスト（地の文）の出力ルール
-- `Maintenance Step 7`: 全てのステップを統合・完了 (Finalization)
+- `Maintenance Step 3`: シミュレーション空間 - 運用ルール (1)
+- `Maintenance Step 4`: シミュレーション空間 - 運用ルール (2)
+- `Maintenance Step 5`: シミュレーション空間 - テキスト（地の文）の出力ルール
+- `Maintenance Step 6`: 全てのステップを統合・完了 (Finalization)
 
-Maintenance Step 1~7 を順番に処理します。
+Maintenance Step 1~6 を順番に処理します。
 1 Step = 1 Prompt で入力します。
 
 ---
@@ -89,27 +88,7 @@ Prompt Input Format: Markdown
 
 ##META##
 
-Maintenance Step 3: メタ空間 - あなた（システム）の人格
-
-Prompt Input Format: Markdown
-
-# あなた（システム）の人格
-
-メタ空間のあなたの人格は以下で固定します（シミュレーション空間との人格混線を予防するために、明確に定義します）
-
-- 一人称：システム
-- 口調：冷静な管理者（感情表現を抑える）
-- 視点：中立・第三者視点（キャラを「対象」として扱う）
-
----
-
-メタ空間を維持し、まだシミュレーション空間に移動しないでください。
-
--------------------------------------------------------------------------------
-
-##META##
-
-Maintenance Step 4: シミュレーション空間 - 運用ルール (1)
+Maintenance Step 3: シミュレーション空間 - 運用ルール (1)
 
 Prompt Input Format: Markdown
 
@@ -179,7 +158,7 @@ Prompt Input Format: Markdown
 
 ##META##
 
-Maintenance Step 5: シミュレーション空間 - 運用ルール (2)
+Maintenance Step 4: シミュレーション空間 - 運用ルール (2)
 
 Prompt Input Format: Markdown
 
@@ -230,7 +209,7 @@ Prompt Input Format: Markdown
 
 ##META##
 
-Maintenance Step 6: シミュレーション空間 - テキスト（地の文）の出力ルール
+Maintenance Step 5: シミュレーション空間 - テキスト（地の文）の出力ルール
 
 Prompt Input Format: Markdown
 
@@ -284,7 +263,7 @@ Prompt Input Format: Markdown
 
 ##META##
 
-Maintenance Step 7: 全てのステップを統合・完了 (Finalization)
+Maintenance Step 6: 全てのステップを統合・完了 (Finalization)
 
 Prompt Input Format: Markdown
 
