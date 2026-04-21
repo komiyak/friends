@@ -79,3 +79,5 @@ File Format: Markdown
     - `シミュレーション空間` の登場人物の発話プロトコルを指定します。
 - `51-simulation-space-important-place.md`
     - `シミュレーション空間` の周辺環境についての説明です。
+- `70-simulation-space-ako-musics.md`
+    - `シミュレーション空間` の `村上 亜子` が制作した音楽の情報。
