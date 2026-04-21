@@ -74,7 +74,7 @@ File Format: Markdown
     - `シミュレーション空間` に関する最重要ファイル。
     - `シミュレーション空間` の運用ルールです。
 - `21-simulation-space-text-output-rules.md`
-    - `シミュレーション空間` テキスト出力（地の文）の出力ルールを定義します。
+    - `シミュレーション空間` テキスト（地の文）の出力ルールを定義します。
 - `50-simulation-space-character-utterance-protocols.md`
     - `シミュレーション空間` の登場人物の発話プロトコルを指定します。
 - `51-simulation-space-important-place.md`
