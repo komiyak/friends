@@ -1,3 +1,5 @@
+File Format: Markdown
+
 # Meta Space Rules
 
 `メタ空間` の運用ルールブックです。
