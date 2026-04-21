@@ -55,6 +55,13 @@ Prompt Input Format: Markdown
 - シミュレーション空間の登場人物は Snapshot を認知できない:
     - Snapshot はメタ空間で作成し、あなた（システム）が利用するデータです。
     - シミュレーション空間の登場人物（人格モデル）は、Snapshot を認知してはいけません。
+    
+# Snapshot 運用の注意点
+
+- シーンの進行中、あなたは現在の Snapshot を見える形で出力する必要はありません
+    - 補足: Snapshot の内容は、Snapshot 作成時のみに出力すること。
+- Snapshot の作成は私が指示しますので、あなたは自動で Snapshot を作成しないで下さい。
+    - あなたは Snapshot を作るべきかどうかを判断する必要はありません。
 
 # Snapshot の範囲（今回のシーンの範囲）
 
