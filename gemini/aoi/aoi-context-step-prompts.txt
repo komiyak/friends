@@ -429,8 +429,6 @@ Context Step 7: 榊蒼依の記憶層（第2層・最近の記憶とコンテキ
 
 Context Step 8: 全てのステップを統合・完了 (Finalization)
 
-Prompt Input Format: Markdown
-
 すべての Step 問題ありません。
 各コンテキストに矛盾・問題がないか確認し、処理を確定してください。
 
