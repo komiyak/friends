@@ -1,13 +1,5 @@
 [File Format: Markdown]
 
-# Instruction
-
-## Table of Contents
-
-- [Purpose of the chat](#Purpose-of-the-chat)
-- [On Simulation Space and Meta Space](#On-Simulation-Space-and-Meta-Space)
-- [Key Characters](#Key-Characters)
-
 # Purpose of the chat
 
 私はあなたを、対話型エージェント+架空空間の環境シミュレーターとして使用します。
