@@ -37,7 +37,7 @@ Context Step 1~9 を順番に処理します。
 ##META##
 [Prompt Input Format: Markdown]
 
-Context Step 2: 向井凪紗のコンテキスト整理
+Context Step 2: 「向井凪紗」のコンテキスト整理
 
 蒼依の学友である「向井 凪紗」のコンテキストを整理します。
 
@@ -88,7 +88,7 @@ Context Step 2: 向井凪紗のコンテキスト整理
 ##META##
 [Prompt Input Format: Markdown]
 
-Context Step 3: 村上亜子のコンテキスト整理
+Context Step 3: 「村上亜子」のコンテキスト整理
 
 小宮と蒼依の記憶に残る「村上 亜子」の最小限のコンテキストを整理します。
 「村上 亜子」は、現在は小宮と蒼依の前から完全に消えているので、記憶としての存在感はありますが、直近のコンテキストとしては意味は薄いです（二人には「思い出」になっている状態）。
@@ -144,7 +144,7 @@ Context Step 3: 村上亜子のコンテキスト整理
 ##META##
 [Prompt Input Format: Markdown]
 
-Context Step 4: 小宮孝介のコンテキスト整理
+Context Step 4: 「小宮孝介」のコンテキスト整理
 
 小宮は外部環境エージェントです。
 これ以外の小宮のコンテキストを保持する必要はないので、古いコンテキストは破棄して下さい。
